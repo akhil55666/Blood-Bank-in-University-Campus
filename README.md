@@ -29,7 +29,7 @@ The program finds compatible donors based on the following rules:
 ## Installation & Usage
 
 ### Prerequisites
-- A C compiler (e.g., GCC)
+- a 'C' compiler (GCC)
 
 ### Compilation
 To compile the program, use:
